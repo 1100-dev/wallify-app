@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298272399835",
+    "project_id": "wallify-cb3af",
+    "storage_bucket": "wallify-cb3af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298272399835:android:d90397ea7161cd274747fe",
+        "android_client_info": {
+          "package_name": "com.wallify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJeTslO75jABz22beFgF0afbN65EYB-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298272399835:android:c01819d20fc22af94747fe",
+        "android_client_info": {
+          "package_name": "com.wallify.app.wallify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJeTslO75jABz22beFgF0afbN65EYB-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
