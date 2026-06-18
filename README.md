@@ -1,17 +1,35 @@
-# wallify
+# Wallify
 
-A new Flutter project.
+## Overview
+Wallify is a Flutter-based wallpaper application that fetches high-quality images from the Pexels API.  
+Users can browse wallpapers and download them with a clean, modern UI experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Fetch wallpapers from Pexels API
+- Browse high-quality images
+- Search wallpapers
+- Add to favorites
+- Download wallpapers to device
+- Clean and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Pexels API
+- HTTP package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+(Add your app screenshots here)
+
+---
+
+## 🚀 How to Run
+```bash
+flutter pub get
+flutter run
