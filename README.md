@@ -16,7 +16,7 @@ Users can browse wallpapers and download them with a clean, modern UI experience
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Flutter
 - Dart
 - Pexels API
@@ -24,12 +24,16 @@ Users can browse wallpapers and download them with a clean, modern UI experience
 
 ---
 
-## 📸 Screenshots
-(Add your app screenshots here)
+## Screenshots
+Home Page<img width="1920" height="1020" alt="Screenshot 2026-06-19 062321" src="https://github.com/user-attachments/assets/05cc6205-d360-4d5b-a377-1f1930408f53" />
+Search Page<img width="1920" height="1020" alt="Screenshot 2026-06-19 063220" src="https://github.com/user-attachments/assets/4300bc3c-48fa-4b0f-82a2-461aa5b059cd" />
+Favorites Page<img width="1920" height="1020" alt="Screenshot 2026-06-19 070444" src="https://github.com/user-attachments/assets/782a6ccf-239a-4544-8dae-07ee51484487" />
+Profile Page<img width="1920" height="1020" alt="Screenshot 2026-06-19 070507" src="https://github.com/user-attachments/assets/85f198eb-75cb-4621-8b07-8de98ad362fb" />
+
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 flutter pub get
 flutter run
