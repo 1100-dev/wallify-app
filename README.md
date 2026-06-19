@@ -34,6 +34,19 @@ Profile Page<img width="1920" height="1020" alt="Screenshot 2026-06-19 070507" s
 ---
 
 ## How to Run
+Before running this project, make sure you have installed:
+
+- Flutter SDK (latest stable version)
+- Dart SDK (comes with Flutter)
+- Android Studio or VS Code
+- Android Emulator OR physical Android device
+
+To check Flutter installation:
 ```bash
+flutter doctor
+**## Clone Repository**
+```bash
+git clone https://github.com/your-username/wallify-app.git
+cd wallify-app
 flutter pub get
 flutter run
