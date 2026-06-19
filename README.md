@@ -44,7 +44,12 @@ Before running this project, make sure you have installed:
 To check Flutter installation:
 ```bash
 flutter doctor
-**## Clone Repository**
+
+
+---
+
+
+**## Clone Repository*
 ```bash
 git clone https://github.com/your-username/wallify-app.git
 cd wallify-app
