@@ -47,11 +47,9 @@ flutter doctor
 
 
 ---
-
-
-**## Clone Repository*
-```bash
 git clone https://github.com/1100-dev/wallify-app.git
 cd wallify-app
 flutter pub get
 flutter run
+
+
